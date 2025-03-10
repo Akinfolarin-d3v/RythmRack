@@ -42,3 +42,7 @@ Acknowledgments
 
 Inspiration: Thanks to various online design communities for inspiring the responsive, modern layout.
 Community: To all the independent music producers who are creating and sharing unique sounds.
+
+
+![Uploading Screenshot 2025-03-10 at 2.02.44 AM.png…]()
+
