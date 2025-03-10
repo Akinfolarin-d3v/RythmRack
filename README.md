@@ -30,3 +30,5 @@ This project is licensed under the MIT License.
 
 Acknowledgments
 Thanks to online design communities and independent producers for the inspiration.
+
+<img width="1440" alt="Screenshot 2025-03-10 at 2 02 44 AM" src="https://github.com/user-attachments/assets/8da95edf-f95a-442d-b1f0-0c2e1c89312e" />
