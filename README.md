@@ -43,6 +43,6 @@ Acknowledgments
 Inspiration: Thanks to various online design communities for inspiring the responsive, modern layout.
 Community: To all the independent music producers who are creating and sharing unique sounds.
 
+<img width="1440" alt="Screenshot 2025-03-10 at 2 02 44 AM" src="https://github.com/user-attachments/assets/afc196f8-74da-476a-9d55-bc2cb54af03c" />
 
-![Uploading Screenshot 2025-03-10 at 2.02.44 AM.png…]()
 
