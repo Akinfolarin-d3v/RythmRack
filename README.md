@@ -1,56 +1,44 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/filmlane)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/filmlane?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/filmlane?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/G-mEhvhWyw8?style=social)](https://youtu.be/G-mEhvhWyw8)
+Welcome to RythmRack – a sleek, customizable beat-selling website template built specifically for independent music producers. This repository contains all the code, assets, and documentation you need to set up a professional website to showcase and sell your original beats directly to your audience.
 
-  <br />
-  <br />
-  
-  <img src="./readme-images/project-logo.png" />
+Features
+Customizable Design: Fully responsive layout with clean HTML, CSS, and JavaScript that’s easy to modify.
+Integrated Beat Player: Let visitors preview your beats seamlessly before purchasing.
+Direct Sales Platform: Sell your beats directly with secure payment integrations.
+Flexible Licensing Options: Configure licensing terms to suit non-exclusive or exclusive beat sales.
+SEO-Optimized: Designed to boost your online presence and attract organic traffic.
+Quick Setup: Get your website up and running in minutes with straightforward installation and customization.
 
-  <h2 align="center">Filmlane - Movie website</h2>
+Demo
+Experience the live demo of RythmRack here: https://rythmrack.netlify.app/
 
-  Filmlane is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/filmlane/"><strong>➥ Live Demo</strong></a>
 
-</div>
+Customization
 
-<br />
+Design: Edit the HTML and CSS files in the assets/ folder to match your branding.
+Beat Player: Update the JavaScript configuration with your own beats.
+Content: Replace placeholder text and images with your personal details and music samples.
+Usage
+This template is designed for music producers who sell their beats directly. Once set up, you can:
 
-### Demo Screeshots
+Update your beat listings
 
-![Filmlane Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+Configure licensing options and pricing
+Integrate your preferred payment gateway (e.g., PayPal, Stripe)
+Contributing
+Contributions are welcome! If you have suggestions or improvements, please:
 
-### Prerequisites
+Fork this repository.
 
-Before you begin, ensure you have met the following requirements:
+Create a new branch for your feature or bug fix.
+Submit a pull request with a detailed explanation of your changes.
+For major changes, please open an issue first to discuss your ideas.
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+License
 
-### Run Locally
+This project is licensed under the MIT License.
 
-To run **Filmlane** locally, run this command on your git bash:
+Acknowledgments
 
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/filmlane.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/filmlane.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+Inspiration: Thanks to various online design communities for inspiring the responsive, modern layout.
+Community: To all the independent music producers who are creating and sharing unique sounds.
